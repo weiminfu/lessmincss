@@ -1,5 +1,7 @@
 lessmincss模块使用说明书：
 
+功能：将less文件批量自动编译为压缩的min.css文件
+
 1、从npm上下载安装“lessmincss”模块：
 
 执行安装命令 npm install lessmincss
